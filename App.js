@@ -17,7 +17,7 @@ import { InMemoryCache } from 'apollo-cache-inmemory'
 
 // 2
 const httpLink = createHttpLink({
-    uri: 'http://api.tradesathi.com'
+    uri: 'http://*********.com'
 })
 
 // 3
